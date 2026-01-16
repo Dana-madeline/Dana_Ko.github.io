@@ -8026,257 +8026,313 @@
     },
     "ku_override": true
   },
-  "우푸(진)": {
-    "s0": {
-      "hp": null,
-      "atk": null,
-      "def": null,
-      "agi": null
-    },
-    "sg": {
-      "hp": null,
-      "atk": null,
-      "def": null,
-      "agi": null
-    }
-  },
-  "푸푸(진)": {
-    "s0": {
-      "hp": null,
-      "atk": null,
-      "def": null,
-      "agi": null
-    },
-    "sg": {
-      "hp": null,
-      "atk": null,
-      "def": null,
-      "agi": null
-    }
-  },
-  "오투투(진)": {
-    "s0": {
-      "hp": null,
-      "atk": null,
-      "def": null,
-      "agi": null
-    },
-    "sg": {
-      "hp": null,
-      "atk": null,
-      "def": null,
-      "agi": null
-    }
-  },
-  "투투(진)": {
-    "s0": {
-      "hp": null,
-      "atk": null,
-      "def": null,
-      "agi": null
-    },
-    "sg": {
-      "hp": null,
-      "atk": null,
-      "def": null,
-      "agi": null
-    }
-  },
   "우리(환)": {
     "s0": {
-      "hp": null,
-      "atk": null,
-      "def": null,
-      "agi": null
+      "hp": 17.15,
+      "atk": 2.56,
+      "def": 2.65,
+      "agi": 2.95
     },
     "sg": {
-      "hp": null,
-      "atk": null,
-      "def": null,
-      "agi": null
-    }
+      "hp": 9.86,
+      "atk": 1.47,
+      "def": 1.52,
+      "agi": 1.7
+    },
+    "k": 10,
+    "u": {
+      "hp": 21,
+      "atk": 15,
+      "def": 16,
+      "agi": 25
+    },
+    "ku_override": true
   },
   "두리(환)": {
     "s0": {
-      "hp": null,
-      "atk": null,
-      "def": null,
-      "agi": null
+      "hp": 36.7,
+      "atk": 7.05,
+      "def": 4.71,
+      "agi": 5.5
     },
     "sg": {
-      "hp": null,
-      "atk": null,
-      "def": null,
-      "agi": null
-    }
+      "hp": 10.55,
+      "atk": 2.03,
+      "def": 1.36,
+      "agi": 1.58
+    },
+    "k": 20,
+    "u": {
+      "hp": 23,
+      "atk": 25,
+      "def": 12,
+      "agi": 23
+    },
+    "ku_override": true
   },
   "얼룩우리(환)": {
     "s0": {
-      "hp": null,
-      "atk": null,
-      "def": null,
-      "agi": null
+      "hp": 27.07,
+      "atk": 4.47,
+      "def": 4.61,
+      "agi": 3.38
     },
     "sg": {
-      "hp": null,
-      "atk": null,
-      "def": null,
-      "agi": null
-    }
+      "hp": 10.38,
+      "atk": 1.71,
+      "def": 1.77,
+      "agi": 1.29
+    },
+    "k": 15,
+    "u": {
+      "hp": 23,
+      "atk": 19,
+      "def": 20,
+      "agi": 18
+    },
+    "ku_override": true
   },
   "불그리(환)": {
     "s0": {
-      "hp": null,
-      "atk": null,
-      "def": null,
-      "agi": null
+      "hp": 21.35,
+      "atk": 3.69,
+      "def": 3.24,
+      "agi": 3.75
     },
     "sg": {
-      "hp": null,
-      "atk": null,
-      "def": null,
-      "agi": null
-    }
+      "hp": 10.14,
+      "atk": 1.75,
+      "def": 1.54,
+      "agi": 1.78
+    },
+    "k": 10,
+    "u": {
+      "hp": 26,
+      "atk": 25,
+      "def": 20,
+      "agi": 33
+    },
+    "ku_override": true
   },
   "실버우리(환)": {
     "s0": {
-      "hp": null,
-      "atk": null,
-      "def": null,
-      "agi": null
+      "hp": 39.9,
+      "atk": 7.16,
+      "def": 7.33,
+      "agi": 6.3
     },
     "sg": {
-      "hp": null,
-      "atk": null,
-      "def": null,
-      "agi": null
-    }
+      "hp": 9.88,
+      "atk": 1.77,
+      "def": 1.82,
+      "agi": 1.56
+    },
+    "k": 20,
+    "u": {
+      "hp": 23,
+      "atk": 24,
+      "def": 25,
+      "agi": 27
+    },
+    "ku_override": true
   },
   "부비(환)": {
     "s0": {
-      "hp": null,
-      "atk": null,
-      "def": null,
-      "agi": null
+      "hp": 38.77,
+      "atk": 5.01,
+      "def": 4.47,
+      "agi": 2.63
     },
     "sg": {
-      "hp": null,
-      "atk": null,
-      "def": null,
-      "agi": null
-    }
+      "hp": 13.31,
+      "atk": 1.72,
+      "def": 1.53,
+      "agi": 0.9
+    },
+    "k": 15,
+    "u": {
+      "hp": 44,
+      "atk": 21,
+      "def": 17,
+      "agi": 13
+    },
+    "ku_override": true
   },
   "골드부비(환)": {
     "s0": {
-      "hp": null,
-      "atk": null,
-      "def": null,
-      "agi": null
+      "hp": 57.63,
+      "atk": 8.47,
+      "def": 11.17,
+      "agi": 4.38
     },
     "sg": {
-      "hp": null,
-      "atk": null,
-      "def": null,
-      "agi": null
-    }
+      "hp": 11.41,
+      "atk": 1.68,
+      "def": 2.21,
+      "agi": 0.87
+    },
+    "k": 25,
+    "u": {
+      "hp": 33,
+      "atk": 21,
+      "def": 33,
+      "agi": 13
+    },
+    "ku_override": true
   },
   "부이(환)": {
     "s0": {
-      "hp": null,
-      "atk": null,
-      "def": null,
-      "agi": null
+      "hp": 58.19,
+      "atk": 7.4,
+      "def": 6.8,
+      "agi": 4.07
     },
     "sg": {
-      "hp": null,
-      "atk": null,
-      "def": null,
-      "agi": null
-    }
+      "hp": 13.62,
+      "atk": 1.73,
+      "def": 1.59,
+      "agi": 0.95
+    },
+    "k": 22,
+    "u": {
+      "hp": 45,
+      "atk": 21,
+      "def": 18,
+      "agi": 14
+    },
+    "ku_override": true
   },
   "부이비(환)": {
     "s0": {
-      "hp": null,
-      "atk": null,
-      "def": null,
-      "agi": null
+      "hp": 36.24,
+      "atk": 6.32,
+      "def": 4.59,
+      "agi": 3.76
     },
     "sg": {
-      "hp": null,
-      "atk": null,
-      "def": null,
-      "agi": null
-    }
+      "hp": 11.66,
+      "atk": 2.03,
+      "def": 1.48,
+      "agi": 1.21
+    },
+    "k": 16,
+    "u": {
+      "hp": 33,
+      "atk": 28,
+      "def": 16,
+      "agi": 19
+    },
+    "ku_override": true
   },
   "얼룩부이비(환)": {
     "s0": {
-      "hp": null,
-      "atk": null,
-      "def": null,
-      "agi": null
+      "hp": 50.72,
+      "atk": 9.27,
+      "def": 6.58,
+      "agi": 5.63
     },
     "sg": {
-      "hp": null,
-      "atk": null,
-      "def": null,
-      "agi": null
-    }
+      "hp": 11.36,
+      "atk": 2.08,
+      "def": 1.47,
+      "agi": 1.26
+    },
+    "k": 23,
+    "u": {
+      "hp": 31,
+      "atk": 29,
+      "def": 16,
+      "agi": 20
+    },
+    "ku_override": true
   },
   "꼬미(환)": {
     "s0": {
-      "hp": null,
-      "atk": null,
-      "def": null,
-      "agi": null
+      "hp": 42.13,
+      "atk": 8.74,
+      "def": 5.97,
+      "agi": 7.15
     },
     "sg": {
-      "hp": null,
-      "atk": null,
-      "def": null,
-      "agi": null
-    }
+      "hp": 9.86,
+      "atk": 2.05,
+      "def": 1.4,
+      "agi": 1.67
+    },
+    "k": 22,
+    "u": {
+      "hp": 22,
+      "atk": 29,
+      "def": 15,
+      "agi": 28
+    },
+    "ku_override": true
   },
   "꼬비(환)": {
     "s0": {
-      "hp": null,
-      "atk": null,
-      "def": null,
-      "agi": null
+      "hp": 42.35,
+      "atk": 8.56,
+      "def": 6.39,
+      "agi": 7.15
     },
     "sg": {
-      "hp": null,
-      "atk": null,
-      "def": null,
-      "agi": null
-    }
+      "hp": 9.91,
+      "atk": 2,
+      "def": 1.49,
+      "agi": 1.67
+    },
+    "k": 22,
+    "u": {
+      "hp": 22,
+      "atk": 28,
+      "def": 17,
+      "agi": 28
+    },
+    "ku_override": true
   },
   "꼬비오(환)": {
     "s0": {
-      "hp": null,
-      "atk": null,
-      "def": null,
-      "agi": null
+      "hp": 41.47,
+      "atk": 8.52,
+      "def": 5.95,
+      "agi": 7.59
     },
     "sg": {
-      "hp": null,
-      "atk": null,
-      "def": null,
-      "agi": null
-    }
+      "hp": 9.71,
+      "atk": 1.99,
+      "def": 1.39,
+      "agi": 1.78
+    },
+    "k": 22,
+    "u": {
+      "hp": 21,
+      "atk": 28,
+      "def": 15,
+      "agi": 30
+    },
+    "ku_override": true
   },
   "꼬꼬비(환)": {
     "s0": {
-      "hp": null,
-      "atk": null,
-      "def": null,
-      "agi": null
+      "hp": 42.35,
+      "atk": 8.75,
+      "def": 5.98,
+      "agi": 7.37
     },
     "sg": {
-      "hp": null,
-      "atk": null,
-      "def": null,
-      "agi": null
-    }
+      "hp": 9.91,
+      "atk": 2.05,
+      "def": 1.4,
+      "agi": 1.73
+    },
+    "k": 22,
+    "u": {
+      "hp": 22,
+      "atk": 29,
+      "def": 15,
+      "agi": 29
+    },
+    "ku_override": true
   },
   "고르고르(진/환)": {
     "s0": {
@@ -8473,6 +8529,94 @@
       "atk": 42,
       "def": 19,
       "agi": 24
+    },
+    "ku_override": true
+  },
+  "오투투(진/환)": {
+    "s0": {
+      "hp": 35.7,
+      "atk": 6.16,
+      "def": 5.43,
+      "agi": 7.1
+    },
+    "sg": {
+      "hp": 9.91,
+      "atk": 1.71,
+      "def": 1.51,
+      "agi": 1.97
+    },
+    "k": 20,
+    "u": {
+      "hp": 20,
+      "atk": 20,
+      "def": 16,
+      "agi": 31
+    },
+    "ku_override": true
+  },
+  "우푸(진/환)": {
+    "s0": {
+      "hp": 25.13,
+      "atk": 4.93,
+      "def": 2.91,
+      "agi": 5.63
+    },
+    "sg": {
+      "hp": 9.63,
+      "atk": 1.89,
+      "def": 1.11,
+      "agi": 2.16
+    },
+    "k": 15,
+    "u": {
+      "hp": 18,
+      "atk": 23,
+      "def": 8,
+      "agi": 33
+    },
+    "ku_override": true
+  },
+  "투투(진/환)": {
+    "s0": {
+      "hp": 31.7,
+      "atk": 5.66,
+      "def": 3.51,
+      "agi": 5.36
+    },
+    "sg": {
+      "hp": 10.72,
+      "atk": 1.91,
+      "def": 1.19,
+      "agi": 1.81
+    },
+    "k": 17,
+    "u": {
+      "hp": 24,
+      "atk": 23,
+      "def": 9,
+      "agi": 27
+    },
+    "ku_override": true
+  },
+  "푸푸(진/환)": {
+    "s0": {
+      "hp": 21.77,
+      "atk": 4.03,
+      "def": 2.63,
+      "agi": 5
+    },
+    "sg": {
+      "hp": 9.63,
+      "atk": 1.78,
+      "def": 1.16,
+      "agi": 2.21
+    },
+    "k": 13,
+    "u": {
+      "hp": 18,
+      "atk": 21,
+      "def": 9,
+      "agi": 34
     },
     "ku_override": true
   }
